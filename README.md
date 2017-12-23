@@ -10,7 +10,7 @@ Created by Jie Lin, Zechao Li and Jinhui Tang at  Nanjing University of Science 
 
 In this work, we propose a novel Discriminative Deep Hashing (DDH) framework for large-scale face image retrieval. The proposed framework leverages feature extraction, hash learning and class prediction in one unified network. And the divide-and-encode module is introduced to reduce the redundancy among hash codes and the network parameters simultaneously. The proposed method can learn discriminative and compact hash codes. Experiments show that the proposed method achieves encouraging retrieval performance. DDH's framework is as follows:
 
-![net_framework](.\net_framework.jpg)
+![net_framework](net_framework.jpg)
 
 ## Prerequisites
 
